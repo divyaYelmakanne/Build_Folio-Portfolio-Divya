@@ -7,7 +7,7 @@ Welcome to my personal developer portfolio! This site showcases who I am, what I
 
 ## 🧑‍💻 About Me
 
-👋 Hii! I'm **Divya Yelmakanne**, a passionate B.E. Engineering student with a keen interest in building AI-powered and innovative solutions that make an impact.
+👋 Hii! I'm **Divya Yelmakanne**, a passionate Engineering student with a keen interest in building AI-powered and innovative solutions that make an impact.
 
 ---
 
